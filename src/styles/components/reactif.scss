@@ -1,0 +1,9 @@
+.réactif {
+    background-color: var(--color-primary);
+
+    .card {
+        &:nth-child(even) {
+            order: auto;
+        }
+    }
+}

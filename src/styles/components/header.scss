@@ -1,0 +1,16 @@
+.header {
+    background-color: rgba($color: #000000, $alpha: 0.6);
+    text-align: center;
+
+    padding: 25px 0;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+
+    .logo {
+        color: var(--color-white);
+    }
+}

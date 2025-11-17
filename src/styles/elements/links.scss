@@ -8,6 +8,11 @@ a {
 
     &:hover {
         color: var(--color-primary);
-        text-decoration: underline;
+        text-decoration: none;
     }
+}
+
+.boutton {
+    padding: 15px 10px;
+    border-radius: 100px;
 }
